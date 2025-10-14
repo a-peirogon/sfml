@@ -1,0 +1,2 @@
+/home/a_peirogon/Escritorio/sfml/build/CMakeFiles/edit_cache.dir
+/home/a_peirogon/Escritorio/sfml/build/CMakeFiles/rebuild_cache.dir
